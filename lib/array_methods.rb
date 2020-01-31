@@ -1,5 +1,5 @@
 def using_include(array, element)
-  array.include?("Sultan")
+  array.include?("random")
 end
 
 def using_sort(array)
