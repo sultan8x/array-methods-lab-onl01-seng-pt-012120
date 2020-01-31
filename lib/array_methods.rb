@@ -1,9 +1,10 @@
 def using_include(array, element)
-
+  array.include?("Sultan")
 end
 
 def using_sort(array)
-
+  sort_one = ["I"]
+  sort_one.sort
 end
 
 def using_reverse(array)
